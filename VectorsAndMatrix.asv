@@ -1,0 +1,9 @@
+clearvars;clc;
+
+x= 1:10;% it means x has value from 1 to 10 [x is not single single value anymore, it's vector or an array] 
+disp(x);
+% lest do some cool stuff
+disp(x');% yup its transpose[x transpose]
+y=1:0.5:10;
+disp
+
